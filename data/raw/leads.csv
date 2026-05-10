@@ -1,0 +1,401 @@
+lead_id,campaign_id,lead_date,conversion_date,country,industry,lead_source,deal_value_usd,status
+LEAD_0001,CAMP_031,2024-04-18,,Italy,Finance,Paid,,Qualified
+LEAD_0002,CAMP_145,2025-03-11,2025-05-03,Spain,Automotive,Direct,6553.6,Converted
+LEAD_0003,CAMP_001,2024-02-08,2024-03-27,Germany,SaaS,Organic,41834.88,Converted
+LEAD_0004,CAMP_005,2024-03-04,2024-03-21,Japan,Retail,Paid,7601.48,Converted
+LEAD_0005,CAMP_011,2024-12-23,,United Kingdom,Real Estate,Organic,,New
+LEAD_0006,CAMP_097,2024-04-07,2024-06-05,France,SaaS,Direct,14889.28,Converted
+LEAD_0007,CAMP_082,2024-05-21,,India,Healthcare,Paid,,Lost
+LEAD_0008,CAMP_089,2024-08-06,,United Kingdom,Healthcare,Referral,,Qualified
+LEAD_0009,CAMP_079,2025-02-14,2025-03-14,Australia,Finance,Paid,46195.25,Converted
+LEAD_0010,CAMP_044,2024-03-24,,France,Retail,Paid,,Qualified
+LEAD_0011,CAMP_009,2024-09-12,,Japan,Real Estate,Paid,,Lost
+LEAD_0012,CAMP_001,2024-01-25,,Australia,Retail,Organic,,New
+LEAD_0013,CAMP_010,2024-11-18,,United Kingdom,Retail,Direct,,Qualified
+LEAD_0014,CAMP_138,2024-03-28,,Germany,Real Estate,Paid,,Qualified
+LEAD_0015,CAMP_144,2024-05-08,2024-06-08,Italy,Finance,Direct,18175.37,Converted
+LEAD_0016,CAMP_051,2025-04-13,,United States,Finance,Referral,,Qualified
+LEAD_0017,CAMP_092,2025-03-20,,Mexico,Travel,Paid,,Lost
+LEAD_0018,CAMP_070,2024-05-12,2024-07-08,Japan,Finance,Organic,1348.59,Converted
+LEAD_0019,CAMP_098,2024-06-13,2024-08-03,Mexico,Education,Organic,40410.07,Converted
+LEAD_0020,CAMP_145,2025-02-05,,Australia,Travel,Referral,,Qualified
+LEAD_0021,CAMP_112,2025-06-07,2025-07-23,Spain,Real Estate,Paid,14502.47,Converted
+LEAD_0022,CAMP_095,2024-08-20,2024-10-01,Brazil,Automotive,Referral,24640.92,Converted
+LEAD_0023,CAMP_128,2024-11-04,2024-12-30,Italy,Healthcare,Organic,35569.24,Converted
+LEAD_0024,CAMP_098,2024-06-03,,Italy,Healthcare,Organic,,Qualified
+LEAD_0025,CAMP_044,2024-03-13,,Brazil,Retail,Paid,,Qualified
+LEAD_0026,CAMP_148,2025-04-15,,Germany,Finance,Paid,,Lost
+LEAD_0027,CAMP_005,2024-04-17,,Mexico,Finance,Organic,,Lost
+LEAD_0028,CAMP_019,2025-06-14,,France,Retail,Direct,,New
+LEAD_0029,CAMP_133,2024-08-22,2024-10-01,Australia,Retail,Paid,15036.99,Converted
+LEAD_0030,CAMP_021,2025-04-20,2025-05-25,Spain,Travel,Paid,1524.81,Converted
+LEAD_0031,CAMP_099,2024-02-24,2024-04-03,United States,Healthcare,Organic,26274.87,Converted
+LEAD_0032,CAMP_150,2025-01-13,,Germany,Healthcare,Organic,,New
+LEAD_0033,CAMP_115,2024-09-06,2024-10-05,Mexico,SaaS,Organic,33813.44,Converted
+LEAD_0034,CAMP_047,2024-06-30,2024-07-12,Italy,Education,Referral,27930.04,Converted
+LEAD_0035,CAMP_083,2025-02-18,,Australia,SaaS,Direct,,Qualified
+LEAD_0036,CAMP_129,2024-10-18,2024-11-10,Japan,Finance,Organic,9576.7,Converted
+LEAD_0037,CAMP_030,2025-02-12,,France,Travel,Referral,,Qualified
+LEAD_0038,CAMP_050,2025-05-02,,Mexico,Automotive,Paid,,Qualified
+LEAD_0039,CAMP_118,2025-06-30,,India,Automotive,Organic,,Qualified
+LEAD_0040,CAMP_125,2024-10-21,,France,Real Estate,Paid,,New
+LEAD_0041,CAMP_123,2025-07-18,2025-09-14,Brazil,Retail,Referral,16470.8,Converted
+LEAD_0042,CAMP_041,2024-09-22,,Mexico,Education,Organic,,Qualified
+LEAD_0043,CAMP_138,2024-03-30,,India,Education,Referral,,Lost
+LEAD_0044,CAMP_033,2025-05-02,,Canada,Healthcare,Paid,,Lost
+LEAD_0045,CAMP_008,2025-04-13,2025-05-05,Canada,SaaS,Paid,37036.02,Converted
+LEAD_0046,CAMP_085,2024-03-18,2024-05-17,United Kingdom,Finance,Organic,31311.25,Converted
+LEAD_0047,CAMP_104,2024-05-25,2024-07-13,Germany,Retail,Direct,25140.58,Converted
+LEAD_0048,CAMP_091,2024-08-09,2024-09-16,Australia,Travel,Direct,45007.94,Converted
+LEAD_0049,CAMP_141,2024-05-15,,Japan,Travel,Direct,,Lost
+LEAD_0050,CAMP_041,2024-09-19,2024-10-04,Mexico,Automotive,Organic,3653.26,Converted
+LEAD_0051,CAMP_103,2024-08-08,,Spain,Healthcare,Direct,,Qualified
+LEAD_0052,CAMP_128,2024-10-11,2024-11-16,Germany,Retail,Paid,16466.91,Converted
+LEAD_0053,CAMP_102,2024-12-24,2025-01-20,Canada,Healthcare,Referral,18718.51,Converted
+LEAD_0054,CAMP_031,2024-04-23,,Australia,Education,Referral,,Qualified
+LEAD_0055,CAMP_049,2025-04-16,,United States,Real Estate,Referral,,Qualified
+LEAD_0056,CAMP_071,2025-02-15,,Canada,Automotive,Paid,,Lost
+LEAD_0057,CAMP_140,2025-06-23,,Australia,SaaS,Organic,,New
+LEAD_0058,CAMP_129,2024-10-01,2024-11-12,Mexico,SaaS,Paid,22178.72,Converted
+LEAD_0059,CAMP_034,2024-04-13,,Germany,Healthcare,Direct,,Qualified
+LEAD_0060,CAMP_009,2024-09-09,,Spain,Education,Direct,,New
+LEAD_0061,CAMP_097,2024-03-11,,Australia,Retail,Direct,,Qualified
+LEAD_0062,CAMP_032,2025-03-29,2025-04-08,Canada,Automotive,Organic,11557.9,Converted
+LEAD_0063,CAMP_111,2025-03-24,2025-04-16,Japan,Travel,Referral,18687.14,Converted
+LEAD_0064,CAMP_074,2025-04-10,,Brazil,SaaS,Paid,,Qualified
+LEAD_0065,CAMP_030,2025-03-19,,Brazil,Automotive,Direct,,Qualified
+LEAD_0066,CAMP_012,2024-05-22,,Canada,Automotive,Paid,,Qualified
+LEAD_0067,CAMP_148,2025-06-16,,Brazil,Real Estate,Direct,,New
+LEAD_0068,CAMP_119,2025-01-02,,Brazil,SaaS,Referral,,New
+LEAD_0069,CAMP_040,2025-01-05,2025-02-26,Spain,Real Estate,Referral,14106.15,Converted
+LEAD_0070,CAMP_005,2024-04-13,2024-05-13,Japan,Automotive,Direct,37646.88,Converted
+LEAD_0071,CAMP_021,2025-04-20,,Germany,Healthcare,Paid,,New
+LEAD_0072,CAMP_109,2025-01-25,,Italy,Finance,Paid,,Lost
+LEAD_0073,CAMP_028,2025-01-26,,France,Finance,Direct,,Qualified
+LEAD_0074,CAMP_072,2024-04-15,,Mexico,Finance,Organic,,New
+LEAD_0075,CAMP_127,2024-09-26,2024-10-08,Mexico,Travel,Paid,33086.8,Converted
+LEAD_0076,CAMP_080,2025-02-18,2025-03-25,United Kingdom,Healthcare,Organic,31697.55,Converted
+LEAD_0077,CAMP_141,2024-04-26,2024-05-23,India,Travel,Direct,43347.82,Converted
+LEAD_0078,CAMP_063,2024-09-07,,Italy,Healthcare,Direct,,Lost
+LEAD_0079,CAMP_051,2025-06-15,2025-07-28,Spain,Travel,Referral,22313.89,Converted
+LEAD_0080,CAMP_024,2025-03-02,,France,Automotive,Referral,,Qualified
+LEAD_0081,CAMP_073,2024-09-15,,United Kingdom,Travel,Organic,,Qualified
+LEAD_0082,CAMP_057,2024-08-11,,United Kingdom,Education,Referral,,Qualified
+LEAD_0083,CAMP_033,2025-05-19,,Italy,Automotive,Direct,,Qualified
+LEAD_0084,CAMP_009,2024-08-15,,Mexico,Travel,Paid,,New
+LEAD_0085,CAMP_144,2024-03-08,,United States,Real Estate,Direct,,Qualified
+LEAD_0086,CAMP_050,2025-03-25,,Italy,Real Estate,Direct,,New
+LEAD_0087,CAMP_023,2024-06-12,,Mexico,SaaS,Referral,,Qualified
+LEAD_0088,CAMP_060,2024-08-30,2024-10-10,Mexico,SaaS,Organic,40631.62,Converted
+LEAD_0089,CAMP_045,2024-05-07,,France,Automotive,Direct,,New
+LEAD_0090,CAMP_053,2024-05-16,2024-06-23,Germany,Healthcare,Organic,10201.68,Converted
+LEAD_0091,CAMP_034,2024-06-01,,France,Travel,Referral,,New
+LEAD_0092,CAMP_066,2025-01-18,2025-03-12,France,Healthcare,Organic,1402.0,Converted
+LEAD_0093,CAMP_118,2025-05-28,,Mexico,Travel,Direct,,New
+LEAD_0094,CAMP_076,2024-09-03,,Germany,Education,Organic,,Qualified
+LEAD_0095,CAMP_110,2025-01-29,,Mexico,Finance,Direct,,New
+LEAD_0096,CAMP_059,2024-12-08,,Canada,Real Estate,Organic,,New
+LEAD_0097,CAMP_063,2024-09-06,,Italy,SaaS,Direct,,Lost
+LEAD_0098,CAMP_062,2024-06-12,,Germany,SaaS,Direct,,New
+LEAD_0099,CAMP_045,2024-07-17,2024-08-26,United States,Automotive,Direct,33634.39,Converted
+LEAD_0100,CAMP_004,2025-01-31,,United Kingdom,Retail,Organic,,Lost
+LEAD_0101,CAMP_052,2024-06-01,,Canada,SaaS,Referral,,Qualified
+LEAD_0102,CAMP_062,2024-04-23,,United States,Finance,Paid,,Lost
+LEAD_0103,CAMP_065,2024-07-25,,Germany,Healthcare,Referral,,Qualified
+LEAD_0104,CAMP_082,2024-05-18,,United States,Retail,Organic,,New
+LEAD_0105,CAMP_112,2025-06-13,2025-06-29,France,SaaS,Paid,19198.53,Converted
+LEAD_0106,CAMP_146,2025-03-09,,Australia,Education,Organic,,New
+LEAD_0107,CAMP_064,2024-02-20,,United Kingdom,Finance,Paid,,Qualified
+LEAD_0108,CAMP_054,2024-03-15,,Japan,Education,Direct,,New
+LEAD_0109,CAMP_128,2024-10-20,,Mexico,Education,Paid,,New
+LEAD_0110,CAMP_039,2025-05-25,,India,Automotive,Referral,,Lost
+LEAD_0111,CAMP_037,2024-04-08,2024-04-27,Japan,Education,Referral,28768.38,Converted
+LEAD_0112,CAMP_126,2024-08-09,,Australia,Healthcare,Organic,,Qualified
+LEAD_0113,CAMP_026,2024-05-08,,Canada,Travel,Referral,,New
+LEAD_0114,CAMP_136,2025-02-08,,Spain,Real Estate,Paid,,New
+LEAD_0115,CAMP_046,2024-11-22,2024-12-22,United States,Education,Organic,39024.81,Converted
+LEAD_0116,CAMP_009,2024-09-14,2024-10-03,India,Healthcare,Referral,26679.42,Converted
+LEAD_0117,CAMP_007,2024-11-11,,Brazil,Finance,Organic,,Qualified
+LEAD_0118,CAMP_010,2025-01-12,2025-01-21,United Kingdom,Healthcare,Organic,41924.47,Converted
+LEAD_0119,CAMP_078,2024-04-15,,United States,Finance,Organic,,New
+LEAD_0120,CAMP_002,2025-01-10,2025-02-10,Japan,Travel,Organic,33238.14,Converted
+LEAD_0121,CAMP_015,2024-03-10,,Italy,Finance,Organic,,New
+LEAD_0122,CAMP_120,2024-09-06,2024-11-05,Spain,Retail,Referral,4917.88,Converted
+LEAD_0123,CAMP_113,2024-09-06,2024-10-09,Italy,Retail,Referral,41279.3,Converted
+LEAD_0124,CAMP_140,2025-06-17,,France,Travel,Organic,,New
+LEAD_0125,CAMP_034,2024-04-21,,France,Finance,Paid,,Lost
+LEAD_0126,CAMP_136,2025-02-18,,United States,SaaS,Paid,,Qualified
+LEAD_0127,CAMP_007,2024-11-26,2024-12-29,Spain,Education,Direct,37559.31,Converted
+LEAD_0128,CAMP_038,2024-09-07,2024-09-20,United Kingdom,Real Estate,Referral,9173.66,Converted
+LEAD_0129,CAMP_080,2025-04-12,,Australia,Automotive,Referral,,New
+LEAD_0130,CAMP_031,2024-04-28,2024-05-25,Mexico,Real Estate,Referral,42397.85,Converted
+LEAD_0131,CAMP_120,2024-10-01,,Japan,SaaS,Direct,,New
+LEAD_0132,CAMP_019,2025-07-21,,Canada,Education,Direct,,Lost
+LEAD_0133,CAMP_057,2024-10-07,,Germany,Retail,Referral,,Lost
+LEAD_0134,CAMP_131,2024-06-03,,United Kingdom,Travel,Organic,,New
+LEAD_0135,CAMP_032,2025-04-11,,United States,Education,Organic,,Lost
+LEAD_0136,CAMP_046,2024-12-25,,Japan,Healthcare,Organic,,Lost
+LEAD_0137,CAMP_048,2024-10-08,,United Kingdom,Healthcare,Referral,,Qualified
+LEAD_0138,CAMP_032,2025-04-15,,United States,SaaS,Referral,,Lost
+LEAD_0139,CAMP_084,2025-05-28,,Mexico,SaaS,Organic,,New
+LEAD_0140,CAMP_109,2025-02-03,2025-02-21,Italy,Finance,Referral,24925.54,Converted
+LEAD_0141,CAMP_027,2024-02-10,2024-03-24,Germany,Education,Referral,19695.76,Converted
+LEAD_0142,CAMP_115,2024-09-16,,France,SaaS,Organic,,Qualified
+LEAD_0143,CAMP_120,2024-10-03,2024-11-03,Japan,Retail,Referral,3652.27,Converted
+LEAD_0144,CAMP_107,2024-09-08,2024-10-05,United States,Healthcare,Organic,25617.68,Converted
+LEAD_0145,CAMP_075,2025-05-01,,Australia,Finance,Paid,,Lost
+LEAD_0146,CAMP_121,2024-09-24,,Mexico,Healthcare,Paid,,Qualified
+LEAD_0147,CAMP_069,2025-06-13,,Australia,Retail,Direct,,New
+LEAD_0148,CAMP_074,2025-05-11,,Japan,Real Estate,Paid,,New
+LEAD_0149,CAMP_081,2025-01-29,,United States,Automotive,Direct,,Qualified
+LEAD_0150,CAMP_006,2025-04-01,2025-05-13,Italy,SaaS,Paid,31183.85,Converted
+LEAD_0151,CAMP_035,2024-08-13,,Mexico,Education,Organic,,Qualified
+LEAD_0152,CAMP_144,2024-03-22,2024-04-25,United States,Education,Referral,18898.11,Converted
+LEAD_0153,CAMP_026,2024-05-11,2024-07-06,Brazil,Automotive,Paid,15936.12,Converted
+LEAD_0154,CAMP_006,2025-03-05,,United States,SaaS,Referral,,New
+LEAD_0155,CAMP_133,2024-07-21,2024-08-02,Germany,SaaS,Paid,6506.22,Converted
+LEAD_0156,CAMP_142,2024-12-05,,Italy,Finance,Referral,,New
+LEAD_0157,CAMP_139,2025-07-11,,Brazil,SaaS,Paid,,Qualified
+LEAD_0158,CAMP_085,2024-03-19,,Canada,Automotive,Paid,,Qualified
+LEAD_0159,CAMP_085,2024-05-20,2024-05-28,Spain,Retail,Referral,19453.73,Converted
+LEAD_0160,CAMP_131,2024-05-06,,United States,Travel,Organic,,New
+LEAD_0161,CAMP_086,2024-11-27,2024-12-04,Spain,Travel,Referral,4263.29,Converted
+LEAD_0162,CAMP_144,2024-03-21,,Spain,Real Estate,Paid,,New
+LEAD_0163,CAMP_089,2024-07-08,,Italy,Finance,Referral,,Qualified
+LEAD_0164,CAMP_015,2024-03-18,,Japan,Finance,Paid,,Lost
+LEAD_0165,CAMP_008,2025-03-25,,India,Retail,Organic,,Qualified
+LEAD_0166,CAMP_052,2024-05-31,,Canada,Education,Direct,,Lost
+LEAD_0167,CAMP_082,2024-04-24,2024-05-02,Brazil,Education,Referral,17992.22,Converted
+LEAD_0168,CAMP_051,2025-04-26,,Japan,Travel,Organic,,Lost
+LEAD_0169,CAMP_061,2025-01-30,,Mexico,Retail,Referral,,Qualified
+LEAD_0170,CAMP_121,2024-08-28,,Mexico,Healthcare,Organic,,New
+LEAD_0171,CAMP_012,2024-06-10,,Spain,SaaS,Direct,,Qualified
+LEAD_0172,CAMP_095,2024-07-29,2024-09-01,Australia,Education,Direct,48556.32,Converted
+LEAD_0173,CAMP_072,2024-04-14,,Spain,Healthcare,Paid,,New
+LEAD_0174,CAMP_041,2024-09-08,,Italy,Healthcare,Direct,,Qualified
+LEAD_0175,CAMP_013,2024-04-01,2024-05-14,Brazil,Finance,Organic,45938.49,Converted
+LEAD_0176,CAMP_063,2024-09-10,,United Kingdom,Retail,Referral,,Qualified
+LEAD_0177,CAMP_045,2024-08-04,,Mexico,Travel,Direct,,Lost
+LEAD_0178,CAMP_038,2024-09-03,,Canada,Healthcare,Paid,,Lost
+LEAD_0179,CAMP_082,2024-03-18,,Germany,Travel,Paid,,New
+LEAD_0180,CAMP_002,2025-01-13,,Spain,Retail,Referral,,New
+LEAD_0181,CAMP_039,2025-05-03,2025-06-09,Australia,Automotive,Referral,7570.24,Converted
+LEAD_0182,CAMP_019,2025-06-04,,India,Automotive,Paid,,Lost
+LEAD_0183,CAMP_070,2024-05-22,,Germany,Real Estate,Organic,,New
+LEAD_0184,CAMP_051,2025-04-30,,United States,SaaS,Paid,,Lost
+LEAD_0185,CAMP_107,2024-08-09,,India,Automotive,Referral,,New
+LEAD_0186,CAMP_049,2025-05-04,,Mexico,Real Estate,Organic,,Lost
+LEAD_0187,CAMP_120,2024-10-01,2024-11-01,Mexico,Retail,Organic,36289.84,Converted
+LEAD_0188,CAMP_043,2025-01-05,,Germany,SaaS,Direct,,Qualified
+LEAD_0189,CAMP_064,2024-04-04,,Mexico,Retail,Paid,,New
+LEAD_0190,CAMP_094,2025-01-11,,Canada,Travel,Direct,,Qualified
+LEAD_0191,CAMP_060,2024-08-15,,Australia,Retail,Paid,,Qualified
+LEAD_0192,CAMP_140,2025-06-09,2025-07-14,Japan,Finance,Paid,5431.6,Converted
+LEAD_0193,CAMP_057,2024-11-18,2025-01-08,Mexico,Real Estate,Referral,27773.95,Converted
+LEAD_0194,CAMP_140,2025-06-07,,India,SaaS,Direct,,New
+LEAD_0195,CAMP_007,2024-10-27,,Italy,Healthcare,Organic,,Qualified
+LEAD_0196,CAMP_024,2025-01-11,,India,Education,Organic,,New
+LEAD_0197,CAMP_124,2025-04-21,2025-06-13,Japan,Healthcare,Direct,39762.26,Converted
+LEAD_0198,CAMP_075,2025-05-21,,United Kingdom,Education,Paid,,Qualified
+LEAD_0199,CAMP_003,2024-10-24,,United Kingdom,Retail,Direct,,Lost
+LEAD_0200,CAMP_110,2025-02-19,,India,Travel,Paid,,Qualified
+LEAD_0201,CAMP_045,2024-04-29,,United States,Retail,Referral,,Lost
+LEAD_0202,CAMP_056,2024-10-25,,India,Retail,Direct,,Qualified
+LEAD_0203,CAMP_024,2025-01-30,,Spain,Automotive,Direct,,New
+LEAD_0204,CAMP_122,2025-06-07,,Australia,Retail,Paid,,Qualified
+LEAD_0205,CAMP_070,2024-07-07,,Australia,SaaS,Organic,,Qualified
+LEAD_0206,CAMP_148,2025-03-20,,Spain,Education,Organic,,New
+LEAD_0207,CAMP_064,2024-02-26,,Spain,Travel,Referral,,Lost
+LEAD_0208,CAMP_100,2024-05-20,,Mexico,Healthcare,Paid,,New
+LEAD_0209,CAMP_136,2025-03-08,,Spain,Healthcare,Direct,,Qualified
+LEAD_0210,CAMP_117,2025-01-29,,Germany,Finance,Referral,,Qualified
+LEAD_0211,CAMP_103,2024-07-16,,Mexico,Finance,Direct,,Qualified
+LEAD_0212,CAMP_099,2024-02-26,,United Kingdom,Finance,Referral,,Qualified
+LEAD_0213,CAMP_020,2024-04-30,,Japan,SaaS,Paid,,Qualified
+LEAD_0214,CAMP_027,2024-04-24,,Australia,Finance,Direct,,New
+LEAD_0215,CAMP_124,2025-05-04,2025-06-30,Canada,Real Estate,Referral,49327.64,Converted
+LEAD_0216,CAMP_030,2025-01-12,,Australia,Education,Paid,,Qualified
+LEAD_0217,CAMP_068,2024-04-13,2024-05-23,India,Automotive,Paid,36730.05,Converted
+LEAD_0218,CAMP_036,2025-02-15,2025-03-06,Germany,Automotive,Organic,1077.46,Converted
+LEAD_0219,CAMP_104,2024-08-17,2024-10-14,Mexico,Real Estate,Organic,31150.09,Converted
+LEAD_0220,CAMP_100,2024-06-20,,Spain,SaaS,Organic,,Qualified
+LEAD_0221,CAMP_132,2024-06-15,,Canada,Travel,Organic,,New
+LEAD_0222,CAMP_087,2025-04-05,,Japan,Education,Organic,,Qualified
+LEAD_0223,CAMP_008,2025-03-20,2025-04-17,Australia,Retail,Paid,20406.42,Converted
+LEAD_0224,CAMP_062,2024-05-11,,Brazil,Automotive,Direct,,Qualified
+LEAD_0225,CAMP_071,2025-01-04,2025-02-10,India,Education,Direct,8613.93,Converted
+LEAD_0226,CAMP_071,2025-02-21,,Germany,Travel,Referral,,Lost
+LEAD_0227,CAMP_063,2024-10-04,,United States,Education,Referral,,Qualified
+LEAD_0228,CAMP_016,2024-11-05,,Canada,Retail,Referral,,Lost
+LEAD_0229,CAMP_121,2024-09-17,2024-11-16,Australia,Real Estate,Paid,9132.5,Converted
+LEAD_0230,CAMP_038,2024-09-01,,Canada,Education,Organic,,New
+LEAD_0231,CAMP_140,2025-05-15,,India,SaaS,Referral,,Qualified
+LEAD_0232,CAMP_097,2024-03-20,2024-04-15,Canada,Healthcare,Organic,11590.85,Converted
+LEAD_0233,CAMP_028,2025-02-21,2025-04-18,France,Automotive,Organic,10902.82,Converted
+LEAD_0234,CAMP_023,2024-07-15,,United Kingdom,SaaS,Referral,,Lost
+LEAD_0235,CAMP_047,2024-06-13,2024-07-23,Brazil,Healthcare,Organic,16207.58,Converted
+LEAD_0236,CAMP_141,2024-08-05,,Japan,Healthcare,Paid,,Lost
+LEAD_0237,CAMP_099,2024-02-24,,Italy,Finance,Organic,,Qualified
+LEAD_0238,CAMP_018,2024-04-06,,Spain,Finance,Referral,,Lost
+LEAD_0239,CAMP_094,2025-02-02,,France,Travel,Organic,,Lost
+LEAD_0240,CAMP_052,2024-06-21,2024-08-07,Brazil,SaaS,Paid,44714.64,Converted
+LEAD_0241,CAMP_062,2024-05-23,,Brazil,Automotive,Organic,,Qualified
+LEAD_0242,CAMP_086,2024-11-02,,Canada,Finance,Organic,,New
+LEAD_0243,CAMP_074,2025-06-26,2025-07-09,Brazil,Education,Referral,11122.29,Converted
+LEAD_0244,CAMP_067,2025-04-11,,Canada,SaaS,Paid,,Lost
+LEAD_0245,CAMP_137,2024-12-02,,Brazil,Automotive,Organic,,Qualified
+LEAD_0246,CAMP_093,2024-08-25,,Spain,Retail,Organic,,New
+LEAD_0247,CAMP_014,2025-05-23,,Mexico,Real Estate,Paid,,New
+LEAD_0248,CAMP_021,2025-04-20,2025-06-03,Italy,Automotive,Referral,31844.06,Converted
+LEAD_0249,CAMP_112,2025-05-23,,United States,Finance,Direct,,Qualified
+LEAD_0250,CAMP_078,2024-05-09,,Italy,Automotive,Organic,,New
+LEAD_0251,CAMP_026,2024-05-06,,Spain,Automotive,Direct,,Qualified
+LEAD_0252,CAMP_056,2024-11-22,,United Kingdom,Travel,Referral,,Lost
+LEAD_0253,CAMP_147,2024-10-26,,Spain,Education,Referral,,New
+LEAD_0254,CAMP_014,2025-06-01,,France,Automotive,Organic,,Qualified
+LEAD_0255,CAMP_004,2025-02-05,,United Kingdom,Travel,Referral,,Qualified
+LEAD_0256,CAMP_038,2024-09-01,2024-10-10,Italy,Finance,Referral,6043.68,Converted
+LEAD_0257,CAMP_120,2024-09-28,2024-11-24,India,Real Estate,Direct,15803.79,Converted
+LEAD_0258,CAMP_149,2025-05-13,2025-06-24,India,Real Estate,Organic,8791.99,Converted
+LEAD_0259,CAMP_131,2024-05-17,,Italy,Real Estate,Direct,,New
+LEAD_0260,CAMP_013,2024-04-26,,United States,Healthcare,Organic,,Qualified
+LEAD_0261,CAMP_051,2025-06-08,2025-06-22,India,Education,Organic,30015.99,Converted
+LEAD_0262,CAMP_084,2025-06-15,,Mexico,Finance,Organic,,New
+LEAD_0263,CAMP_003,2024-11-26,2025-01-21,Brazil,Automotive,Organic,41173.42,Converted
+LEAD_0264,CAMP_050,2025-02-14,,United Kingdom,Retail,Paid,,New
+LEAD_0265,CAMP_133,2024-07-21,,Canada,Real Estate,Direct,,Qualified
+LEAD_0266,CAMP_106,2025-01-19,,Brazil,Travel,Referral,,New
+LEAD_0267,CAMP_026,2024-05-21,,Mexico,Education,Organic,,Lost
+LEAD_0268,CAMP_021,2025-04-20,2025-06-05,Mexico,Healthcare,Referral,49334.66,Converted
+LEAD_0269,CAMP_041,2024-08-29,,Japan,Retail,Organic,,Qualified
+LEAD_0270,CAMP_031,2024-05-23,2024-06-21,Canada,Retail,Paid,6375.22,Converted
+LEAD_0271,CAMP_111,2025-03-22,2025-04-23,Italy,Real Estate,Direct,31635.5,Converted
+LEAD_0272,CAMP_033,2025-05-13,,United States,Healthcare,Direct,,Qualified
+LEAD_0273,CAMP_024,2025-01-17,,Mexico,Education,Direct,,New
+LEAD_0274,CAMP_108,2024-02-09,,Spain,Healthcare,Paid,,Qualified
+LEAD_0275,CAMP_007,2024-10-22,,Germany,Healthcare,Direct,,New
+LEAD_0276,CAMP_144,2024-05-31,,United Kingdom,Finance,Paid,,Qualified
+LEAD_0277,CAMP_022,2024-05-05,2024-06-10,Italy,Real Estate,Paid,44785.54,Converted
+LEAD_0278,CAMP_066,2025-03-01,,Japan,Automotive,Direct,,Qualified
+LEAD_0279,CAMP_048,2024-10-28,,Mexico,Retail,Direct,,New
+LEAD_0280,CAMP_140,2025-07-13,,Japan,Travel,Direct,,New
+LEAD_0281,CAMP_034,2024-06-02,2024-06-11,Australia,Automotive,Referral,48933.44,Converted
+LEAD_0282,CAMP_012,2024-05-24,2024-07-14,Italy,Travel,Direct,4923.09,Converted
+LEAD_0283,CAMP_040,2025-01-31,,Australia,Finance,Paid,,New
+LEAD_0284,CAMP_088,2024-09-09,2024-10-28,France,Travel,Organic,48060.14,Converted
+LEAD_0285,CAMP_018,2024-04-10,,Germany,Automotive,Direct,,Qualified
+LEAD_0286,CAMP_130,2025-07-07,,Australia,Education,Direct,,Lost
+LEAD_0287,CAMP_084,2025-06-04,,Canada,Travel,Paid,,Lost
+LEAD_0288,CAMP_089,2024-06-16,2024-07-31,Italy,Travel,Organic,37721.84,Converted
+LEAD_0289,CAMP_086,2024-12-18,,United Kingdom,Retail,Referral,,Qualified
+LEAD_0290,CAMP_126,2024-08-29,,India,Finance,Paid,,New
+LEAD_0291,CAMP_039,2025-05-02,,Canada,Travel,Paid,,Lost
+LEAD_0292,CAMP_070,2024-06-20,,Canada,Retail,Organic,,Qualified
+LEAD_0293,CAMP_091,2024-07-15,,Italy,Healthcare,Direct,,Lost
+LEAD_0294,CAMP_129,2024-10-14,2024-11-06,United States,Automotive,Paid,39343.86,Converted
+LEAD_0295,CAMP_069,2025-07-07,,Brazil,Finance,Paid,,Lost
+LEAD_0296,CAMP_072,2024-04-18,,United Kingdom,Automotive,Direct,,Lost
+LEAD_0297,CAMP_065,2024-06-23,,India,Healthcare,Paid,,New
+LEAD_0298,CAMP_043,2025-01-21,2025-02-19,Canada,Finance,Organic,3661.96,Converted
+LEAD_0299,CAMP_025,2024-05-16,,India,Travel,Direct,,Qualified
+LEAD_0300,CAMP_111,2025-05-01,,Japan,SaaS,Direct,,Lost
+LEAD_0301,CAMP_076,2024-09-05,,United Kingdom,Real Estate,Organic,,Qualified
+LEAD_0302,CAMP_009,2024-08-13,,India,Real Estate,Referral,,Lost
+LEAD_0303,CAMP_035,2024-10-10,2024-10-19,Japan,Education,Direct,5770.85,Converted
+LEAD_0304,CAMP_054,2024-03-31,,Canada,Education,Referral,,Lost
+LEAD_0305,CAMP_049,2025-04-22,2025-05-15,Mexico,Automotive,Paid,33062.82,Converted
+LEAD_0306,CAMP_008,2025-04-28,2025-06-23,Brazil,Healthcare,Referral,10551.36,Converted
+LEAD_0307,CAMP_066,2025-03-13,,Germany,Finance,Organic,,New
+LEAD_0308,CAMP_087,2025-04-18,,France,Automotive,Referral,,New
+LEAD_0309,CAMP_032,2025-04-06,2025-04-29,Germany,Finance,Organic,10460.9,Converted
+LEAD_0310,CAMP_029,2024-03-27,2024-05-26,Australia,Finance,Organic,11624.41,Converted
+LEAD_0311,CAMP_003,2024-10-19,,United Kingdom,Real Estate,Paid,,Lost
+LEAD_0312,CAMP_141,2024-05-06,2024-05-29,Spain,Finance,Direct,15433.86,Converted
+LEAD_0313,CAMP_140,2025-05-16,2025-07-06,Brazil,Travel,Paid,45266.18,Converted
+LEAD_0314,CAMP_055,2024-10-05,,Germany,Real Estate,Direct,,New
+LEAD_0315,CAMP_072,2024-04-01,,Canada,Travel,Paid,,Lost
+LEAD_0316,CAMP_065,2024-06-30,,United States,Real Estate,Paid,,New
+LEAD_0317,CAMP_077,2024-10-31,,Japan,Real Estate,Paid,,New
+LEAD_0318,CAMP_029,2024-03-28,2024-05-02,France,Retail,Organic,36054.62,Converted
+LEAD_0319,CAMP_050,2025-02-12,2025-03-07,Germany,Automotive,Paid,39084.62,Converted
+LEAD_0320,CAMP_108,2024-03-12,2024-03-21,Canada,Healthcare,Referral,33565.69,Converted
+LEAD_0321,CAMP_013,2024-05-03,2024-06-11,India,Automotive,Direct,35672.68,Converted
+LEAD_0322,CAMP_020,2024-05-09,2024-07-04,France,SaaS,Organic,40801.51,Converted
+LEAD_0323,CAMP_033,2025-05-13,,India,Finance,Referral,,Lost
+LEAD_0324,CAMP_104,2024-06-26,2024-07-28,Spain,Finance,Referral,3704.54,Converted
+LEAD_0325,CAMP_126,2024-08-18,,Brazil,Finance,Direct,,Lost
+LEAD_0326,CAMP_122,2025-07-22,2025-09-08,Japan,Retail,Direct,10952.9,Converted
+LEAD_0327,CAMP_119,2025-02-09,,Italy,Real Estate,Organic,,New
+LEAD_0328,CAMP_007,2024-12-01,2025-01-08,Spain,Automotive,Paid,5158.26,Converted
+LEAD_0329,CAMP_021,2025-04-20,,United States,Retail,Paid,,New
+LEAD_0330,CAMP_147,2024-11-01,,Japan,Travel,Direct,,Qualified
+LEAD_0331,CAMP_001,2024-03-10,,Germany,Retail,Referral,,Lost
+LEAD_0332,CAMP_002,2024-11-05,,Italy,Retail,Direct,,Qualified
+LEAD_0333,CAMP_049,2025-04-12,,Spain,Automotive,Paid,,New
+LEAD_0334,CAMP_121,2024-10-13,,France,Retail,Paid,,New
+LEAD_0335,CAMP_104,2024-07-16,2024-08-22,Australia,Retail,Paid,45451.77,Converted
+LEAD_0336,CAMP_143,2025-02-22,2025-03-01,Germany,Travel,Organic,9440.2,Converted
+LEAD_0337,CAMP_081,2025-02-19,2025-04-20,France,Finance,Direct,29961.08,Converted
+LEAD_0338,CAMP_105,2024-03-18,2024-04-08,United States,Real Estate,Referral,4092.4,Converted
+LEAD_0339,CAMP_127,2024-10-05,,Spain,Healthcare,Referral,,Qualified
+LEAD_0340,CAMP_108,2024-03-21,,Germany,Healthcare,Referral,,New
+LEAD_0341,CAMP_061,2024-11-19,,United Kingdom,Real Estate,Paid,,New
+LEAD_0342,CAMP_150,2025-01-14,2025-02-18,Australia,Retail,Paid,12938.59,Converted
+LEAD_0343,CAMP_058,2025-01-09,2025-02-25,United Kingdom,Retail,Direct,31009.63,Converted
+LEAD_0344,CAMP_007,2024-10-27,,United Kingdom,Finance,Referral,,New
+LEAD_0345,CAMP_015,2024-03-13,2024-05-09,Italy,Healthcare,Paid,38855.57,Converted
+LEAD_0346,CAMP_040,2024-12-14,2025-01-23,United States,Healthcare,Organic,23070.54,Converted
+LEAD_0347,CAMP_117,2025-01-31,,India,Finance,Referral,,New
+LEAD_0348,CAMP_092,2025-02-16,,Japan,SaaS,Paid,,Qualified
+LEAD_0349,CAMP_139,2025-05-30,,France,Education,Paid,,Lost
+LEAD_0350,CAMP_081,2025-02-19,2025-04-09,Germany,SaaS,Organic,11197.33,Converted
+LEAD_0351,CAMP_147,2024-10-10,2024-11-16,United Kingdom,Retail,Organic,25378.23,Converted
+LEAD_0352,CAMP_127,2024-10-03,,Mexico,Travel,Referral,,Qualified
+LEAD_0353,CAMP_116,2025-02-18,2025-04-14,France,Retail,Paid,23204.23,Converted
+LEAD_0354,CAMP_121,2024-08-20,2024-09-27,France,SaaS,Direct,26230.28,Converted
+LEAD_0355,CAMP_119,2025-02-04,2025-03-09,Spain,Education,Paid,10738.82,Converted
+LEAD_0356,CAMP_008,2025-05-01,,United States,Finance,Paid,,New
+LEAD_0357,CAMP_144,2024-06-10,,United States,Real Estate,Paid,,Qualified
+LEAD_0358,CAMP_057,2024-08-20,,India,Retail,Direct,,Qualified
+LEAD_0359,CAMP_066,2025-01-20,,Australia,Automotive,Paid,,New
+LEAD_0360,CAMP_094,2025-01-23,,India,SaaS,Referral,,Qualified
+LEAD_0361,CAMP_015,2024-03-04,,United Kingdom,Retail,Organic,,New
+LEAD_0362,CAMP_080,2025-02-22,,India,Automotive,Direct,,New
+LEAD_0363,CAMP_086,2024-10-20,2024-11-10,Australia,Healthcare,Paid,44434.04,Converted
+LEAD_0364,CAMP_113,2024-09-08,,United States,Finance,Direct,,Lost
+LEAD_0365,CAMP_068,2024-04-01,,United States,Automotive,Direct,,Qualified
+LEAD_0366,CAMP_009,2024-08-12,,Mexico,SaaS,Paid,,New
+LEAD_0367,CAMP_065,2024-06-15,,United States,Healthcare,Organic,,Qualified
+LEAD_0368,CAMP_058,2025-02-19,,Germany,Automotive,Organic,,Lost
+LEAD_0369,CAMP_104,2024-07-08,,India,Finance,Direct,,Qualified
+LEAD_0370,CAMP_013,2024-05-16,,Japan,Retail,Direct,,New
+LEAD_0371,CAMP_129,2024-09-24,,Canada,SaaS,Organic,,New
+LEAD_0372,CAMP_132,2024-03-28,,Canada,Healthcare,Direct,,Qualified
+LEAD_0373,CAMP_039,2025-04-26,,India,Healthcare,Direct,,Lost
+LEAD_0374,CAMP_097,2024-03-03,2024-04-02,Italy,Retail,Organic,31713.74,Converted
+LEAD_0375,CAMP_065,2024-06-23,,Brazil,Retail,Referral,,Lost
+LEAD_0376,CAMP_030,2025-02-02,2025-03-25,Japan,SaaS,Organic,47358.68,Converted
+LEAD_0377,CAMP_038,2024-09-02,,Italy,Retail,Referral,,Lost
+LEAD_0378,CAMP_067,2025-04-05,,Brazil,Automotive,Organic,,New
+LEAD_0379,CAMP_132,2024-05-11,,Spain,Finance,Paid,,Qualified
+LEAD_0380,CAMP_087,2025-03-14,,United States,Finance,Direct,,Lost
+LEAD_0381,CAMP_136,2025-03-16,,Australia,SaaS,Paid,,Lost
+LEAD_0382,CAMP_056,2024-12-04,,Canada,Real Estate,Referral,,Qualified
+LEAD_0383,CAMP_109,2024-12-30,,Brazil,Automotive,Direct,,New
+LEAD_0384,CAMP_070,2024-06-13,,France,Automotive,Referral,,Qualified
+LEAD_0385,CAMP_038,2024-08-22,2024-10-19,Italy,Finance,Paid,33992.02,Converted
+LEAD_0386,CAMP_006,2025-03-07,,Mexico,Healthcare,Referral,,New
+LEAD_0387,CAMP_024,2025-01-09,,Canada,Finance,Paid,,New
+LEAD_0388,CAMP_027,2024-04-09,,United States,Retail,Referral,,New
+LEAD_0389,CAMP_011,2025-02-07,,Japan,Healthcare,Direct,,Lost
+LEAD_0390,CAMP_001,2024-02-26,,Italy,Retail,Referral,,Qualified
+LEAD_0391,CAMP_150,2024-12-22,,United States,Education,Direct,,New
+LEAD_0392,CAMP_106,2025-03-09,,Spain,Education,Direct,,Qualified
+LEAD_0393,CAMP_104,2024-07-29,2024-09-07,India,Automotive,Referral,42253.49,Converted
+LEAD_0394,CAMP_131,2024-06-01,,Canada,Healthcare,Referral,,New
+LEAD_0395,CAMP_023,2024-06-13,,Canada,Retail,Paid,,Qualified
+LEAD_0396,CAMP_065,2024-06-19,,United Kingdom,Healthcare,Referral,,Qualified
+LEAD_0397,CAMP_056,2024-11-16,,Italy,Healthcare,Paid,,Lost
+LEAD_0398,CAMP_095,2024-07-29,,Brazil,Healthcare,Direct,,New
+LEAD_0399,CAMP_078,2024-04-19,,United States,Retail,Referral,,Qualified
+LEAD_0400,CAMP_119,2025-01-20,,India,Healthcare,Referral,,New

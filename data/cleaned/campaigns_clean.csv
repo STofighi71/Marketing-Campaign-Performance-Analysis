@@ -1,0 +1,151 @@
+campaign_id,campaign_name,channel,platform,target_market,start_date,end_date,objective,budget_usd,campaign_manager
+CAMP_001,Affiliate Campaign 1,Affiliate,LinkedIn,North America,2024-01-13,2024-03-18,Lead Generation,25233.0,Noah Rhodes
+CAMP_002,Affiliate Campaign 2,Affiliate,LinkedIn,EMEA,2024-10-29,2025-01-21,Awareness,18585.81,Daniel Wagner
+CAMP_003,Influencer Campaign 3,Influencer,YouTube,LATAM,2024-10-14,2024-12-08,Lead Generation,70135.31,Cristian Santos
+CAMP_004,Paid Search Campaign 4,Paid Search,Google Ads,APAC,2024-12-23,2025-03-17,Conversion,27544.53,Lisa Hensley
+CAMP_005,Display Campaign 5,Display,Google Ads,EMEA,2024-02-17,2024-05-05,Conversion,127886.68,Ryan Munoz
+CAMP_006,Display Campaign 6,Paid Social,Google Ads,EMEA,2025-01-08,2025-04-06,Retention,16426.03,Cristian Santos
+CAMP_007,Affiliate Campaign 7,Affiliate,LinkedIn,EMEA,2024-10-22,2024-12-15,Awareness,100883.18,Lisa Hensley
+CAMP_008,Display Campaign 8,Display,Google Ads,EMEA,2025-03-13,2025-05-11,Retention,45306.17,Monica Herrera
+CAMP_009,Display Campaign 9,Display,Google Ads,North America,2024-07-08,2024-09-21,Conversion,106763.95,Monica Herrera
+CAMP_010,Affiliate Campaign 10,Affiliate,LinkedIn,North America,2024-11-07,2025-02-26,Lead Generation,28693.36,Abigail Shaffer
+CAMP_011,Display Campaign 11,Display,Google Ads,EMEA,2024-12-16,2025-02-25,Lead Generation,124161.38,Lisa Hensley
+CAMP_012,Display Campaign 12,Display,Google Ads,North America,2024-05-17,2024-06-24,Conversion,35830.85,Gina Moore
+CAMP_013,Email Campaign 13,Paid Social,Mailchimp,North America,2024-03-14,2024-05-16,Lead Generation,113023.4,Gabrielle Davis
+CAMP_014,Display Campaign 14,Display,Google Ads,LATAM,2025-04-04,2025-07-17,Conversion,36801.51,Angie Henderson
+CAMP_015,Influencer Campaign 15,Influencer,TikTok,EMEA,2024-02-16,2024-03-23,Lead Generation,95979.68,Lisa Hensley
+CAMP_016,Affiliate Campaign 16,Affiliate,LinkedIn,LATAM,2024-11-01,2024-12-09,Retention,91403.82,Gina Moore
+CAMP_017,Influencer Campaign 17,Influencer,TikTok,EMEA,2025-05-12,2025-08-20,Awareness,103848.0,Gabrielle Davis
+CAMP_018,Display Campaign 18,Display,Google Ads,LATAM,2024-02-27,2024-05-04,Lead Generation,70789.94,Jamie Arnold
+CAMP_019,Affiliate Campaign 19,Affiliate,LinkedIn,North America,2025-05-12,2025-08-14,Awareness,131225.19,Cristian Santos
+CAMP_020,Affiliate Campaign 20,Affiliate,LinkedIn,North America,2024-03-19,2024-06-04,Awareness,91846.96,Gina Moore
+CAMP_021,Paid Search Campaign 21,Paid Search,Google Ads,APAC,2025-04-20,2025-05-20,Lead Generation,13399.15,Dylan Miller
+CAMP_022,Influencer Campaign 22,Influencer,YouTube,EMEA,2024-02-13,2024-05-15,Lead Generation,23616.76,Gina Moore
+CAMP_023,Influencer Campaign 23,Influencer,YouTube,LATAM,2024-05-15,2024-08-20,Lead Generation,139692.46,Lisa Hensley
+CAMP_024,Affiliate Campaign 24,Affiliate,LinkedIn,LATAM,2024-12-31,2025-03-10,Conversion,68524.51,Gabrielle Davis
+CAMP_025,Email Campaign 25,Email,Mailchimp,EMEA,2024-05-06,2024-07-03,Conversion,8049.97,Gabrielle Davis
+CAMP_026,Paid Social Campaign 26,Paid Social,LinkedIn,EMEA,2024-04-22,2024-05-22,Awareness,38196.56,Dylan Miller
+CAMP_027,Paid Search Campaign 27,Paid Search,Google Ads,North America,2024-02-06,2024-05-11,Conversion,102001.78,Daniel Wagner
+CAMP_028,Influencer Campaign 28,Influencer,YouTube,LATAM,2025-01-05,2025-04-18,Lead Generation,118769.82,Lisa Hensley
+CAMP_029,Email Campaign 29,Email,Mailchimp,LATAM,2024-02-18,2024-03-31,Conversion,66418.9,Gina Moore
+CAMP_030,Affiliate Campaign 30,Affiliate,LinkedIn,EMEA,2024-12-10,2025-04-02,Awareness,63380.09,Connie Lawrence
+CAMP_031,Paid Search Campaign 31,Paid Search,Google Ads,LATAM,2024-04-08,2024-06-01,Lead Generation,66172.84,Cristian Santos
+CAMP_032,Email Campaign 32,Email,Mailchimp,LATAM,2025-03-23,2025-05-01,Awareness,12335.31,Gabrielle Davis
+CAMP_033,Paid Search Campaign 33,Paid Search,Google Ads,North America,2025-04-19,2025-06-18,Retention,75417.96,Daniel Wagner
+CAMP_034,Email Campaign 34,Email,Mailchimp,EMEA,2024-03-25,2024-06-11,Retention,43454.44,Lisa Hensley
+CAMP_035,Email Campaign 35,Email,Mailchimp,LATAM,2024-08-04,2024-12-01,Lead Generation,32535.19,Daniel Wagner
+CAMP_036,Paid Search Campaign 36,Paid Search,Google Ads,EMEA,2025-01-17,2025-03-28,Awareness,89705.75,Gabrielle Davis
+CAMP_037,Influencer Campaign 37,Influencer,YouTube,EMEA,2024-01-30,2024-05-04,Lead Generation,14935.59,Noah Rhodes
+CAMP_038,Affiliate Campaign 38,Affiliate,LinkedIn,North America,2024-07-25,2024-09-08,Awareness,94810.32,Abigail Shaffer
+CAMP_039,Affiliate Campaign 39,Affiliate,LinkedIn,North America,2025-04-23,2025-06-25,Conversion,39609.46,Abigail Shaffer
+CAMP_040,Paid Social Campaign 40,Paid Social,LinkedIn,LATAM,2024-11-26,2025-02-02,Conversion,139707.66,Dylan Miller
+CAMP_041,Paid Search Campaign 41,Paid Search,Google Ads,EMEA,2024-08-22,2024-12-09,Awareness,82956.99,Gabrielle Davis
+CAMP_042,Display Campaign 42,Display,Google Ads,EMEA,2025-04-22,2025-07-05,Lead Generation,58581.43,Angie Henderson
+CAMP_043,Email Campaign 43,Email,Mailchimp,EMEA,2024-11-09,2025-03-02,Conversion,140104.63,Noah Rhodes
+CAMP_044,Paid Social Campaign 44,Paid Social,TikTok,North America,2024-02-29,2024-04-12,Conversion,45854.66,Daniel Wagner
+CAMP_045,Affiliate Campaign 45,Affiliate,LinkedIn,APAC,2024-04-14,2024-08-09,Retention,41412.58,Dylan Miller
+CAMP_046,Paid Search Campaign 46,Paid Search,Google Ads,APAC,2024-11-20,2025-02-12,Awareness,5514.12,Lisa Hensley
+CAMP_047,Paid Social Campaign 47,Paid Social,LinkedIn,LATAM,2024-05-14,2024-07-03,Retention,86331.5,Noah Rhodes
+CAMP_048,Paid Search Campaign 48,Paid Search,Google Ads,APAC,2024-10-06,2024-11-09,Lead Generation,67319.07,Allison Hill
+CAMP_049,Display Campaign 49,Display,Google Ads,APAC,2025-04-05,2025-05-10,Lead Generation,103899.67,Monica Herrera
+CAMP_050,Paid Search Campaign 50,Paid Search,Google Ads,LATAM,2025-02-03,2025-05-15,Lead Generation,139235.75,Daniel Wagner
+CAMP_051,Paid Social Campaign 51,Paid Social,Meta,EMEA,2025-03-27,2025-06-17,Lead Generation,111801.85,Connie Lawrence
+CAMP_052,Email Campaign 52,Email,Mailchimp,EMEA,2024-05-16,2024-07-05,Retention,131464.18,Michele Williams
+CAMP_053,Email Campaign 53,Email,Mailchimp,APAC,2024-04-12,2024-07-09,Conversion,123977.78,Michele Williams
+CAMP_054,Paid Social Campaign 54,Paid Social,Meta,North America,2024-01-13,2024-05-06,Retention,52597.98,Michele Williams
+CAMP_055,Paid Search Campaign 55,Paid Search,Google Ads,LATAM,2024-06-28,2024-10-18,Conversion,141189.39,Noah Rhodes
+CAMP_056,Display Campaign 56,Display,Google Ads,EMEA,2024-10-24,2024-12-26,Awareness,91502.83,Connie Lawrence
+CAMP_057,Affiliate Campaign 57,Affiliate,LinkedIn,EMEA,2024-08-11,2024-11-26,Retention,135428.19,Daniel Wagner
+CAMP_058,Display Campaign 58,Display,Google Ads,EMEA,2024-12-28,2025-03-23,Lead Generation,57812.11,Noah Rhodes
+CAMP_059,Affiliate Campaign 59,Affiliate,LinkedIn,EMEA,2024-11-15,2025-01-24,Conversion,78532.76,Monica Herrera
+CAMP_060,Email Campaign 60,Email,Mailchimp,APAC,2024-07-25,2024-11-21,Lead Generation,32816.81,Monica Herrera
+CAMP_061,Email Campaign 61,Email,Mailchimp,APAC,2024-11-11,2025-02-21,Retention,84450.9,Allison Hill
+CAMP_062,Display Campaign 62,Display,Google Ads,APAC,2024-04-17,2024-07-11,Retention,69058.97,Monica Herrera
+CAMP_063,Paid Social Campaign 63,Paid Social,LinkedIn,EMEA,2024-08-30,2024-10-20,Conversion,79740.54,Monica Herrera
+CAMP_064,Influencer Campaign 64,Influencer,TikTok,APAC,2024-02-17,2024-04-17,Lead Generation,121951.62,Angie Henderson
+CAMP_065,Paid Search Campaign 65,Paid Search,Google Ads,EMEA,2024-05-05,2024-08-03,Retention,65093.95,Monica Herrera
+CAMP_066,Influencer Campaign 66,Influencer,YouTube,LATAM,2025-01-02,2025-05-01,Retention,62949.67,Angie Henderson
+CAMP_067,Affiliate Campaign 67,Affiliate,LinkedIn,LATAM,2025-04-02,2025-05-15,Lead Generation,30503.57,Jamie Arnold
+CAMP_068,Influencer Campaign 68,Influencer,TikTok,North America,2024-01-26,2024-05-06,Awareness,71186.96,Lisa Hensley
+CAMP_069,Email Campaign 69,Email,Mailchimp,LATAM,2025-05-01,2025-07-26,Retention,135095.17,Jamie Arnold
+CAMP_070,Email Campaign 70,Email,Mailchimp,APAC,2024-05-12,2024-07-12,Retention,95878.52,Cristian Santos
+CAMP_071,Email Campaign 71,Email,Mailchimp,North America,2024-12-31,2025-03-07,Conversion,53697.89,Dylan Miller
+CAMP_072,Influencer Campaign 72,Influencer,YouTube,North America,2024-03-11,2024-04-29,Retention,105622.72,Jamie Arnold
+CAMP_073,Paid Social Campaign 73,Paid Social,Meta,APAC,2024-07-31,2024-10-21,Retention,65287.26,Daniel Wagner
+CAMP_074,Email Campaign 74,Email,Mailchimp,EMEA,2025-04-08,2025-07-21,Retention,74162.06,Connie Lawrence
+CAMP_075,Display Campaign 75,Display,Google Ads,North America,2025-03-12,2025-06-03,Retention,36816.14,Abigail Shaffer
+CAMP_076,Email Campaign 76,Email,Mailchimp,LATAM,2024-07-18,2024-09-29,Lead Generation,126873.32,Dylan Miller
+CAMP_077,Paid Social Campaign 77,Paid Social,LinkedIn,LATAM,2024-09-30,2024-11-02,Awareness,17172.38,Abigail Shaffer
+CAMP_078,Paid Social Campaign 78,Paid Social,TikTok,APAC,2024-04-03,2024-05-09,Retention,52466.14,Gina Moore
+CAMP_079,Display Campaign 79,Display,Google Ads,APAC,2025-01-24,2025-04-12,Retention,41579.37,Noah Rhodes
+CAMP_080,Email Campaign 80,Email,Mailchimp,EMEA,2025-01-18,2025-04-27,Conversion,37512.21,Noah Rhodes
+CAMP_081,Affiliate Campaign 81,Affiliate,LinkedIn,North America,2025-01-21,2025-02-23,Lead Generation,126688.18,Ryan Munoz
+CAMP_082,Paid Social Campaign 82,Paid Social,Meta,EMEA,2024-03-05,2024-06-03,Lead Generation,72429.93,Cristian Santos
+CAMP_083,Display Campaign 83,Display,Google Ads,EMEA,2024-11-06,2025-02-21,Lead Generation,144884.51,Noah Rhodes
+CAMP_084,Influencer Campaign 84,Influencer,YouTube,LATAM,2025-04-20,2025-06-28,Retention,141513.24,Daniel Wagner
+CAMP_085,Paid Search Campaign 85,Paid Search,Google Ads,APAC,2024-02-22,2024-06-20,Awareness,120452.95,Ryan Munoz
+CAMP_086,Paid Search Campaign 86,Paid Search,Google Ads,APAC,2024-09-29,2024-12-22,Awareness,78364.31,Connie Lawrence
+CAMP_087,Paid Search Campaign 87,Paid Search,Google Ads,EMEA,2025-02-25,2025-05-28,Retention,144314.2,Monica Herrera
+CAMP_088,Email Campaign 88,Email,Mailchimp,APAC,2024-08-10,2024-10-01,Retention,72406.7,Michele Williams
+CAMP_089,Affiliate Campaign 89,Affiliate,LinkedIn,EMEA,2024-06-14,2024-08-14,Conversion,132836.52,Daniel Wagner
+CAMP_090,Email Campaign 90,Email,Mailchimp,LATAM,2024-06-21,2024-07-24,Conversion,31366.78,Daniel Wagner
+CAMP_091,Display Campaign 91,Display,Google Ads,APAC,2024-06-23,2024-08-27,Awareness,79910.95,Daniel Wagner
+CAMP_092,Paid Search Campaign 92,Paid Search,Google Ads,LATAM,2025-01-03,2025-03-26,Lead Generation,105138.35,Monica Herrera
+CAMP_093,Affiliate Campaign 93,Affiliate,LinkedIn,EMEA,2024-08-17,2024-09-18,Conversion,37131.48,Jamie Arnold
+CAMP_094,Paid Social Campaign 94,Paid Social,TikTok,APAC,2024-12-05,2025-03-19,Retention,85253.58,Connie Lawrence
+CAMP_095,Email Campaign 95,Email,Mailchimp,LATAM,2024-06-29,2024-10-26,Conversion,49460.33,Daniel Wagner
+CAMP_096,Paid Search Campaign 96,Paid Search,Google Ads,North America,2024-06-10,2024-07-25,Lead Generation,36375.77,Gina Moore
+CAMP_097,Display Campaign 97,Display,Google Ads,APAC,2024-02-21,2024-04-15,Lead Generation,57327.76,Cristian Santos
+CAMP_098,Paid Search Campaign 98,Paid Search,Google Ads,EMEA,2024-05-20,2024-06-24,Conversion,106125.52,Angie Henderson
+CAMP_099,Affiliate Campaign 99,Affiliate,LinkedIn,APAC,2024-02-22,2024-03-24,Retention,74413.56,Connie Lawrence
+CAMP_100,Paid Social Campaign 100,Paid Social,Meta,EMEA,2024-05-09,2024-08-08,Awareness,63102.58,Noah Rhodes
+CAMP_101,Influencer Campaign 101,Influencer,YouTube,APAC,2024-03-18,2024-05-06,Awareness,149118.13,Noah Rhodes
+CAMP_102,Influencer Campaign 102,Influencer,TikTok,North America,2024-11-06,2025-02-20,Retention,70324.6,Gina Moore
+CAMP_103,Display Campaign 103,Display,Google Ads,EMEA,2024-06-05,2024-09-15,Awareness,142400.58,Daniel Wagner
+CAMP_104,Affiliate Campaign 104,Affiliate,LinkedIn,EMEA,2024-05-15,2024-09-06,Lead Generation,39780.45,Gabrielle Davis
+CAMP_105,Paid Search Campaign 105,Paid Search,Google Ads,LATAM,2024-01-02,2024-03-24,Retention,47232.6,Daniel Wagner
+CAMP_106,Display Campaign 106,Display,Google Ads,EMEA,2024-12-25,2025-03-23,Lead Generation,138967.1,Lisa Hensley
+CAMP_107,Affiliate Campaign 107,Affiliate,LinkedIn,North America,2024-08-05,2024-09-18,Lead Generation,136719.66,Michele Williams
+CAMP_108,Paid Social Campaign 108,Paid Social,Meta,APAC,2024-01-31,2024-03-22,Conversion,68677.25,Gina Moore
+CAMP_109,Affiliate Campaign 109,Affiliate,LinkedIn,APAC,2024-12-24,2025-03-15,Retention,68475.04,Ryan Munoz
+CAMP_110,Paid Search Campaign 110,Paid Search,Google Ads,APAC,2025-01-11,2025-03-23,Awareness,18242.4,Monica Herrera
+CAMP_111,Influencer Campaign 111,Influencer,YouTube,APAC,2025-01-26,2025-05-22,Awareness,115650.81,Angie Henderson
+CAMP_112,Email Campaign 112,Email,Mailchimp,North America,2025-04-14,2025-06-18,Retention,97043.78,Gina Moore
+CAMP_113,Paid Search Campaign 113,Paid Search,Google Ads,APAC,2024-06-27,2024-09-17,Conversion,102169.36,Michele Williams
+CAMP_114,Paid Social Campaign 114,Paid Social,TikTok,LATAM,2024-07-29,2024-11-24,Conversion,101074.61,Abigail Shaffer
+CAMP_115,Influencer Campaign 115,Influencer,YouTube,APAC,2024-08-20,2024-09-30,Conversion,51874.7,Lisa Hensley
+CAMP_116,Email Campaign 116,Email,Mailchimp,LATAM,2024-12-02,2025-03-11,Retention,12859.59,Gabrielle Davis
+CAMP_117,Display Campaign 117,Display,Google Ads,EMEA,2024-11-16,2025-02-10,Lead Generation,43723.15,Angie Henderson
+CAMP_118,Display Campaign 118,Display,Google Ads,LATAM,2025-03-26,2025-07-23,Awareness,9186.07,Monica Herrera
+CAMP_119,Influencer Campaign 119,Influencer,YouTube,APAC,2024-12-29,2025-02-17,Awareness,85076.45,Noah Rhodes
+CAMP_120,Paid Social Campaign 120,Paid Social,Meta,North America,2024-08-24,2024-10-08,Retention,140234.69,Cristian Santos
+CAMP_121,Influencer Campaign 121,Influencer,TikTok,LATAM,2024-07-31,2024-10-30,Lead Generation,71234.04,Angie Henderson
+CAMP_122,Email Campaign 122,Email,Mailchimp,North America,2025-04-16,2025-07-31,Awareness,45055.87,Lisa Hensley
+CAMP_123,Email Campaign 123,Email,Mailchimp,APAC,2025-04-23,2025-07-26,Awareness,46011.65,Cristian Santos
+CAMP_124,Influencer Campaign 124,Influencer,TikTok,LATAM,2025-03-19,2025-05-07,Retention,55042.97,Gabrielle Davis
+CAMP_125,Influencer Campaign 125,Influencer,TikTok,North America,2024-08-21,2024-10-31,Lead Generation,87910.66,Daniel Wagner
+CAMP_126,Email Campaign 126,Email,Mailchimp,LATAM,2024-06-11,2024-09-09,Retention,148320.03,Lisa Hensley
+CAMP_127,Affiliate Campaign 127,Affiliate,LinkedIn,North America,2024-09-10,2024-10-14,Conversion,131106.55,Michele Williams
+CAMP_128,Email Campaign 128,Email,Mailchimp,EMEA,2024-09-26,2024-12-23,Lead Generation,64446.9,Monica Herrera
+CAMP_129,Paid Social Campaign 129,Paid Social,Meta,APAC,2024-08-28,2024-10-30,Retention,99226.31,Michele Williams
+CAMP_130,Display Campaign 130,Display,Google Ads,LATAM,2025-05-03,2025-07-12,Awareness,94531.62,Daniel Wagner
+CAMP_131,Affiliate Campaign 131,Affiliate,LinkedIn,LATAM,2024-04-26,2024-06-06,Awareness,115253.61,Jamie Arnold
+CAMP_132,Paid Search Campaign 132,Paid Search,Google Ads,APAC,2024-03-26,2024-07-22,Awareness,11668.69,Lisa Hensley
+CAMP_133,Paid Search Campaign 133,Paid Search,Google Ads,LATAM,2024-07-02,2024-09-17,Lead Generation,40408.63,Abigail Shaffer
+CAMP_134,Influencer Campaign 134,Influencer,YouTube,EMEA,2024-03-28,2024-05-19,Retention,94858.0,Daniel Wagner
+CAMP_135,Email Campaign 135,Email,Mailchimp,APAC,2024-04-28,2024-07-26,Retention,42022.37,Allison Hill
+CAMP_136,Email Campaign 136,Email,Mailchimp,North America,2024-12-12,2025-03-21,Awareness,69050.82,Connie Lawrence
+CAMP_137,Influencer Campaign 137,Influencer,TikTok,APAC,2024-11-23,2025-02-15,Retention,127569.07,Daniel Wagner
+CAMP_138,Email Campaign 138,Email,Mailchimp,LATAM,2024-02-24,2024-04-24,Conversion,88347.73,Jamie Arnold
+CAMP_139,Display Campaign 139,Display,Google Ads,LATAM,2025-05-15,2025-09-06,Conversion,6174.21,Michele Williams
+CAMP_140,Affiliate Campaign 140,Affiliate,LinkedIn,LATAM,2025-04-11,2025-07-27,Conversion,117482.44,Daniel Wagner
+CAMP_141,Influencer Campaign 141,Influencer,TikTok,North America,2024-04-22,2024-08-11,Conversion,103275.85,Jamie Arnold
+CAMP_142,Affiliate Campaign 142,Affiliate,LinkedIn,EMEA,2024-11-17,2024-12-29,Conversion,119348.52,Allison Hill
+CAMP_143,Influencer Campaign 143,Influencer,TikTok,EMEA,2025-01-09,2025-02-24,Conversion,52374.27,Abigail Shaffer
+CAMP_144,Paid Social Campaign 144,Paid Social,Meta,APAC,2024-03-08,2024-06-15,Conversion,125418.53,Cristian Santos
+CAMP_145,Email Campaign 145,Email,Mailchimp,EMEA,2025-01-17,2025-03-31,Retention,144619.53,Angie Henderson
+CAMP_146,Paid Social Campaign 146,Paid Social,LinkedIn,LATAM,2025-01-05,2025-05-01,Conversion,18093.92,Abigail Shaffer
+CAMP_147,Paid Search Campaign 147,Paid Search,Google Ads,LATAM,2024-10-01,2024-11-15,Conversion,102560.12,Monica Herrera
+CAMP_148,Display Campaign 148,Display,Google Ads,APAC,2025-02-25,2025-06-16,Awareness,102851.3,Gina Moore
+CAMP_149,Paid Search Campaign 149,Paid Search,Google Ads,North America,2025-04-13,2025-07-30,Awareness,97133.57,Gina Moore
+CAMP_150,Affiliate Campaign 150,Affiliate,LinkedIn,EMEA,2024-11-28,2025-02-18,Lead Generation,11575.29,Allison Hill
