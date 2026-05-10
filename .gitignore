@@ -136,6 +136,10 @@ celerybeat.pid
 *.aof
 *.pid
 
+# Power BI Temp Files
+*.tmp
+
+
 # RabbitMQ
 mnesia/
 rabbitmq/
