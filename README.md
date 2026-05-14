@@ -421,25 +421,25 @@ python scripts/load_to_sqlite.py
 
 ## Executive Summary
 
-(Add screenshot here)
 
-![Executive Summary](assets/executive_summary.png)
+
+![Executive Summary](assets/executive_summary.jpg)
 
 ---
 
 ## Campaign Performance
 
-(Add screenshot here)
 
-![Campaign Performance](assets/campaign_performance.png)
+
+![Campaign Performance](assets/campaign_performance.jpg)
 
 ---
 
 ## Lead & Audience Analysis
 
-(Add screenshot here)
 
-![Lead Analysis](assets/lead_analysis.png)
+
+![Lead Analysis](assets/lead_analysis.jpg)
 
 ---
 
