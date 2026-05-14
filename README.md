@@ -2,7 +2,8 @@
 
 ## Project Overview
 
-This project simulates a real-world marketing analytics workflow for a fictional company called Pulsar.  
+This project simulates a real-world marketing analytics workflow for a fictional company called Pulsar.
+
 The goal is to generate realistic multi-channel marketing data, clean and validate the datasets, perform SQL-based business analysis, and build an interactive Power BI dashboard for stakeholder reporting.
 
 The project covers the complete analytics lifecycle:
@@ -20,7 +21,8 @@ This project was designed as an end-to-end analytics assignment focused on marke
 
 # Business Problem
 
-Pulsar is expanding its digital marketing operations across multiple channels and global markets.  
+Pulsar is expanding its digital marketing operations across multiple channels and global markets.
+
 The marketing team needs a structured, data-driven view of:
 
 - Campaign performance
@@ -70,6 +72,11 @@ The project includes four major stages:
 ```text
 marketing-campaign-performance-analysis/
 │
+├── assets/
+│   ├── executive_summary.png
+│   ├── campaign_performance.png
+│   └── lead_analysis.png
+│
 ├── data/
 │   ├── raw/
 │   │   ├── campaigns.csv
@@ -94,11 +101,6 @@ marketing-campaign-performance-analysis/
 │
 ├── reports/
 │   └── cleaning_report.md
-│
-├── screenshots/
-│   ├── executive_summary.png
-│   ├── campaign_performance.png
-│   └── lead_analysis.png
 │
 ├── requirements.txt
 ├── README.md
@@ -136,7 +138,7 @@ Approximately 150 rows
 
 ## 2. ad_performance.csv
 
-Contains daily campaign performance metrics.
+Contains campaign performance metrics.
 
 ### Columns
 - record_id
@@ -188,7 +190,7 @@ The raw datasets intentionally contain five realistic data quality issues.
 4. Inconsistent category labels
 5. Non-random missing values
 
-These issues are intentionally embedded to simulate real-world marketing data exports and are resolved during the cleaning phase.
+These issues were intentionally embedded to simulate real-world marketing data exports and were resolved during the cleaning phase.
 
 ---
 
@@ -206,9 +208,38 @@ The original raw files are preserved unchanged.
 
 ---
 
+# Data Cleaning Decisions
+
+Several assumptions were made during the cleaning process to preserve analytical consistency.
+
+Examples include:
+
+- Standardizing inconsistent categorical labels
+- Reconstructing missing revenue values using ROAS and spend
+- Correcting invalid campaign dates
+- Removing exact duplicate records
+- Preserving legitimate NULL values where business meaning existed
+
+All cleaning decisions are documented in `cleaning_report.md`.
+
+---
+
+# SQLite Database
+
+The cleaned CSV datasets are loaded into a SQLite database to support structured analytical querying.
+
+Database tables:
+- campaigns
+- ad_performance
+- leads
+
+SQLite was selected because it is lightweight, portable, and suitable for analytics prototyping workflows.
+
+---
+
 # SQL Analysis
 
-The cleaned datasets are loaded into SQLite for analytical querying.
+The cleaned datasets are analyzed using SQLite queries.
 
 The SQL analysis includes:
 
@@ -219,7 +250,22 @@ The SQL analysis includes:
 5. Platform-level CTR and CPC analysis
 6. Industry lead quality analysis
 7. Campaign cohort analysis
-8. Advanced window function analysis using LAG() and OVER()
+8. Advanced trend anomaly detection using SQL window functions (`LAG`, `OVER`)
+
+---
+
+# Dashboard Features
+
+The Power BI dashboard includes:
+
+- Cross-page interactive slicers
+- Dynamic KPI trend indicators
+- Time-series performance analysis
+- Campaign-level profitability analysis
+- Lead funnel visualization
+- Geographic lead distribution
+- Industry-level revenue insights
+- Interactive filtering and drill-down capabilities
 
 ---
 
@@ -232,10 +278,12 @@ The final dashboard contains three interactive pages.
 ## Page 1 — Executive Summary
 
 Includes:
-- KPI cards
+- KPI indicators
 - Spend vs Revenue trends
 - ROAS by channel
 - Lead conversion metrics
+
+
 
 ---
 
@@ -262,7 +310,7 @@ Includes:
 
 # Key Metrics
 
-The project analyzes several important marketing KPIs:
+The project analyzes several important marketing KPIs.
 
 ## CTR (Click-Through Rate)
 
@@ -375,17 +423,23 @@ python scripts/load_to_sqlite.py
 
 (Add screenshot here)
 
+![Executive Summary](assets/executive_summary.png)
+
 ---
 
 ## Campaign Performance
 
 (Add screenshot here)
 
+![Campaign Performance](assets/campaign_performance.png)
+
 ---
 
 ## Lead & Audience Analysis
 
 (Add screenshot here)
+
+![Lead Analysis](assets/lead_analysis.png)
 
 ---
 
@@ -397,10 +451,11 @@ This project demonstrates practical experience in:
 - Data quality management
 - ETL workflows
 - SQL analytics
-- Window functions
+- SQL window functions
 - Marketing KPI analysis
 - Dashboard design
 - Business-focused storytelling
+- Interactive reporting development
 
 ---
 
@@ -413,5 +468,13 @@ Potential future enhancements:
 - Marketing mix modeling
 - Forecasting campaign performance
 - Automated reporting pipelines
+- Cloud-based data warehousing integration
 
+---
+
+# Important Note
+
+This project was intentionally designed to simulate realistic marketing analytics workflows and common data quality challenges encountered in production environments.
+
+The embedded data issues were introduced deliberately and resolved through a documented cleaning pipeline to demonstrate practical analytical problem-solving skills.
 
